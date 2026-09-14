@@ -1,1 +1,7 @@
-{"name":"Mandelbrot.js","author":"itsAsanali","language":"html","license":"none","encoding":"UTF-8"}
+{
+    "name": "Mandelbrot.js",
+    "author": "asanaIi",
+    "language": "html",
+    "license": "none",
+    "encoding": "UTF-8"
+}
